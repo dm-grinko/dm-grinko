@@ -1,4 +1,5 @@
-### Hi there 👋
+# Dmitry Grinko
+### Sr.Full Stack Developer | Cloud Engineer | AWS Solutions Architect
 
 <!--
 **dm-grinko/dm-grinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
